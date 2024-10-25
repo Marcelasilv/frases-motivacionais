@@ -1,1 +1,2 @@
-# frases-motivacionais
+# Motivational Quote Generator
+
